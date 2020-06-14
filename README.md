@@ -2,7 +2,7 @@
 
 ## O que faremos: 
 
-![](Paper_rock_scissors.gif)
+![](tijolo,papel e facao.gif)
 
 ### Passo a passo do joguinho:
 
