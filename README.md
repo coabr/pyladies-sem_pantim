@@ -27,9 +27,9 @@
 **4** - Nesse ponto, é interessante que você rode seu código várias vezes, a fim de checar se a função está funcionando corretamente (aleatoriamente) como devia.
 
   - Vamos dizer que:
-      1 = tijolo (t)
-      2 = papel de embrulhar prego (p)
-      3 = facão (f)
+      * 1 = tijolo (t)
+      * 2 = papel de embrulhar prego (p)
+      * 3 = facão (f)
 
 Use __if__ para checar se o numero escolhido é 1, 2 ou 3:
 ```python
