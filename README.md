@@ -102,6 +102,14 @@ Como você pode notar, o ultimo caso, representado pelo else, é para capturar a
   - Como desafio, já pensou como seria se ao invés de imprimir letras, imprimíssemos artes em ASCII? Ou seja, desenhos como esses:
 
 ```
+        facão:
+        ______________________________ ______________________
+      .'                              | (_)     (_)    (_)   \
+    .'                                |  __________________   }
+  .'_.............................____|_(                  )_/
+
+```
+```
         tijolo:
   _|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
   ___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
