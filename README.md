@@ -100,14 +100,8 @@ Como você pode notar, o ultimo caso, representado pelo else, é para capturar a
 **8** - Como sugestão de melhorias, esse código tem uma infinidade de possibilidades. Este guia foi montado com o objetivo de que quem assistir à palestra do dia 17/06 ao vivo ou gravada, possa ter esse material como apoio para reproduzir sozinha ou sozinho o código. 
 
   - Como desafio, já pensou como seria se ao invés de imprimir letras, imprimíssemos artes em ASCII? Ou seja, desenhos como esses:
-```python
-        facão:
-        ______________________________ ______________________
-      .'                              | (_)     (_)    (_)   \
-    .'                                |  __________________   }
-  .'_.............................____|_(                  )_/
+
 ```
-```python
         tijolo:
   _|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
   ___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|__
@@ -120,7 +114,7 @@ Como você pode notar, o ultimo caso, representado pelo else, é para capturar a
   _|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
 
 ```
-```python
+```
         papel de embrulhar prego:
 
                                 _.._      _
