@@ -83,17 +83,17 @@ Você precisará rodar o código novamente pra iniciar um novo jogo. Seguindo a 
   elif player == 't' and computer =='f':
       print("Se lascou! Levou facada de um robô")
   elif player == 't' and computer == 'p':
-      print("Tu é cabra da peste mermo! Ganhasse, visse?")
+      print("Tu é arretada mermo! Ganhasse, visse?")
   elif player == 'p' and computer == 't':
       print("Se lascou! Levou tijolada de um robô")
   elif player == 'p' and computer == 'f':
-      print("Tu é cabra da peste mermo! Ganhasse, visse?")
+      print("Tu é arretada mermo! Ganhasse, visse?")
   elif player == 'f' and computer == 't':
-      print("Tu é cabra da peste mermo! Ganhasse, visse?")
+      print("Tu é arretada mermo! Ganhasse, visse?")
   elif player == 'f' and computer == 'p':
       print("Se lascou! Fosse embrulhado pelo robô")
   else:
-      print(player+"??? é o quê, boy??!?")
+      print(player+"??? é o quê, mia fia??!?")
 ```
 Como você pode notar, o ultimo caso, representado pelo else, é para capturar algum erro que o jogador venha a cometer, ou seja, caso ele digite qualquer coisa que não seja 't', 'p' ou 'f'.
 
