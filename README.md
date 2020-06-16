@@ -10,7 +10,7 @@
 ``` python
   from random import randint
 
-  jogador = input(player = input('tijolo (t), papel de embrulhar prego (p) ou facão (f)? '))
+  jogador = input(jogadora = input('tijolo (t), papel de embrulhar prego (p) ou facão (f)? '))
 ```
 
 **2** - Agora imprima a escolha do jogador:
@@ -78,22 +78,22 @@ Você precisará rodar o código novamente pra iniciar um novo jogo. Seguindo a 
 ```python
   print(jogador, "versus", computador)
 
-  if player == computer:
+  if jogadora == computador:
       print("EMPATE!")
-  elif player == 't' and computer =='f':
+  elif jogadora == 't' and computador =='f':
       print("Se lascou! Levou facada de um robô")
-  elif player == 't' and computer == 'p':
+  elif jogadora == 't' and computador == 'p':
       print("Tu é arretada mermo! Ganhasse, visse?")
-  elif player == 'p' and computer == 't':
+  elif jogadora == 'p' and computador == 't':
       print("Se lascou! Levou tijolada de um robô")
-  elif player == 'p' and computer == 'f':
+  elif jogadora == 'p' and computador == 'f':
       print("Tu é arretada mermo! Ganhasse, visse?")
-  elif player == 'f' and computer == 't':
+  elif jogadora == 'f' and computador == 't':
       print("Tu é arretada mermo! Ganhasse, visse?")
-  elif player == 'f' and computer == 'p':
-      print("Se lascou! Fosse embrulhado pelo robô")
+  elif jogadora == 'f' and computador == 'p':
+      print("Se lascou! Fosse embrulhada pelo robô")
   else:
-      print(player+"??? é o quê, mia fia??!?")
+      print(jogadora+"??? é o quê, mia fia??!?")
 ```
 Como você pode notar, o ultimo caso, representado pelo else, é para capturar algum erro que o jogador venha a cometer, ou seja, caso ele digite qualquer coisa que não seja 't', 'p' ou 'f'.
 
