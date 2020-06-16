@@ -6,16 +6,16 @@
 
 ### Passo a passo do joguinho:
 
-**1** - Primeiro, importaremos a biblioteca randint e em seguida pediremos que o jogador escolher entre tijolo, papel de embrulhar prego e facão, digitando alguma das iniciais em minúsculo:
+**1** - Primeiro, importaremos a biblioteca randint e em seguida pediremos que o jogadora escolher entre tijolo, papel de embrulhar prego e facão, digitando alguma das iniciais em minúsculo:
 ``` python
   from random import randint
 
-  jogador = input(jogadora = input('tijolo (t), papel de embrulhar prego (p) ou facão (f)? '))
+  jogadora = input(jogadora = input('tijolo (t), papel de embrulhar prego (p) ou facão (f)? '))
 ```
 
-**2** - Agora imprima a escolha do jogador:
+**2** - Agora imprima a escolha do jogadora:
 ``` python
-  print(jogador, 'versus')
+  print(jogadora, 'versus')
 ```
 
 **3** - Chegou a vez do computador. Vamos usar a função que importamos __randint__ para gerar um número aleatório para decidir entre as três opções Tijolo, Papel de embrulhar prego e Facão:
@@ -62,11 +62,11 @@ Essa condição vai somente ser checada se a primeira condição for falsa. E fi
 ```
 Teste seu código escolhendo sua opção
 
-**6** - Por enquanto você vai ter que pensar um pouco para saber quem ganhou. Nesse próximo passo vamos repassar essa tarefa para o python fazer por nós! Queremos que o código compare as variáveis de __jogador__ com o a de __computador__ para vermos quem venceu ou se houve um empate:
+**6** - Por enquanto você vai ter que pensar um pouco para saber quem ganhou. Nesse próximo passo vamos repassar essa tarefa para o python fazer por nós! Queremos que o código compare as variáveis de __jogadora__ com o a de __computador__ para vermos quem venceu ou se houve um empate:
 ```python
   print (computador)
 
-  if jogador == computador:
+  if jogadora == computador:
     print("EMPATE!")
 ```
 Você precisará rodar o código novamente pra iniciar um novo jogo. Seguindo a lógica adaptada, neste jogo, diferente do "pedra, papel e tesoura" original:
@@ -76,7 +76,7 @@ Você precisará rodar o código novamente pra iniciar um novo jogo. Seguindo a 
 
 **7** - Por fim, aplicando a lógica condicional às regras do jogo, nosso código resultará nisso:
 ```python
-  print(jogador, "versus", computador)
+  print(jogadora, "versus", computador)
 
   if jogadora == computador:
       print("EMPATE!")
@@ -95,7 +95,7 @@ Você precisará rodar o código novamente pra iniciar um novo jogo. Seguindo a 
   else:
       print(jogadora+"??? é o quê, mia fia??!?")
 ```
-Como você pode notar, o ultimo caso, representado pelo else, é para capturar algum erro que o jogador venha a cometer, ou seja, caso ele digite qualquer coisa que não seja 't', 'p' ou 'f'.
+Como você pode notar, o ultimo caso, representado pelo else, é para capturar algum erro que o jogadora venha a cometer, ou seja, caso ele digite qualquer coisa que não seja 't', 'p' ou 'f'.
 
 **8** - Como sugestão de melhorias, esse código tem uma infinidade de possibilidades. Este guia foi montado com o objetivo de que quem assistir à palestra do dia 17/06 ao vivo ou gravada, possa ter esse material como apoio para reproduzir sozinha ou sozinho o código. 
 
