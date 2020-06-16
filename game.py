@@ -31,18 +31,18 @@ elif player == 't' and computer =='f':
     print("Se lascou! Levou facada de um robô")
 elif player == 't' and computer == 'p':
     print(player, "versus", computer)
-    print("Tu é cabra da peste mermo! Ganhasse, visse?")
+    print("Tu é arretada mermo! Ganhasse, visse?")
 elif player == 'p' and computer == 't':
     print(player, "versus", computer)
     print("Se lascou! Levou tijolada de um robô")
 elif player == 'p' and computer == 'f':
     print(player, "versus", computer)
-    print("Tu é cabra da peste mermo! Ganhasse, visse?")
+    print("Tu é arretada mermo! Ganhasse, visse?")
 elif player == 'f' and computer == 't':
     print(player, "versus", computer)
-    print("Tu é cabra da peste mermo! Ganhasse, visse?")
+    print("Tu é arretada mermo! Ganhasse, visse?")
 elif player == 'f' and computer == 'p':
     print(player, "versus", computer)
     print("Se lascou! Fosse embrulhado pelo robô")
 else:
-    print(player+"??? é o quê, boy??!?")
+    print(player+"??? é o quê, mia fia??!?")
