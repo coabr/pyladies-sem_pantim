@@ -156,7 +156,7 @@ Como você pode notar, o ultimo caso, representado pelo else, é para capturar a
                       "
 ```
 **9** - Referências e Links úteis:
-  * [raspberrypi.org/](www.raspberrypi.org/) - Tem vários projetos que você pode fazer para testar os seus conhecimentos;
+  * [raspberrypi.org/](www.raspberrypi.org/) - Foi de onde eu usei o tutorial para este projeto, lá você encontra outros vários projetos que você pode fazer (ou adaptar) para aprender mais;
   * [python.org/](www.python.org/) - Site oficial, com opçoes de baixar python e documentação completa da linguagem;
   * [edx.org/course/introduction-to-computer-science-and-programming-7](www.edx.org/course/introduction-to-computer-science-and-programming-7) - Curso introdutório em inglês sobre python, particularmente eu acho ele muito bom;
   * [py4e.com/](www.py4e.com/) - Curso com Charles Severance, professor da Escola de Informática na Universidade de Michigan;
