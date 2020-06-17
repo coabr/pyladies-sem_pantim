@@ -160,7 +160,7 @@ Como você pode notar, o ultimo caso, representado pelo else, é para capturar a
   * [python.org/](www.python.org/) - Site oficial, com opçoes de baixar python e documentação completa da linguagem;
   * [edx.org/course/introduction-to-computer-science-and-programming-7](www.edx.org/course/introduction-to-computer-science-and-programming-7) - Curso introdutório em inglês sobre python, particularmente eu acho ele muito bom;
   * [py4e.com/](www.py4e.com/) - Curso com Charles Severance, professor da Escola de Informática na Universidade de Michigan;
-  * [youtu.be/YO58tXerKDc](www.youtu.be/YO58tXerKDc) - Plylist do curso Python para Zumbis de Fernando Masanori no YouTube;
+  * [youtu.be/YO58tXerKDc](www.youtu.be/YO58tXerKDc) - Playlist do curso Python para Zumbis de Fernando Masanori no YouTube;
   * [Introdução à Programação com Python - Nilo Ney Coutinho Menezes](https://python.nilo.pro.br/) - Excelente livro para começar os estudos, no site do autor ele disponibila o livro em pdf gratuitamente e também as respostas dos exercícios do livro;
   * [freecodecamp.org/](www.freecodecamp.org/) - Sou suspeita para falar, eu amo essa comunidade, tudo gratuito também e excelente fonte de conhecimento. Eles estão iniciando um curso beta de Python;
   * [pythontutor.com/](www.pythontutor.com/) - Debugger simples e eficaz online de Python, já me salvou diversas vezes.
