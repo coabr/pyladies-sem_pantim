@@ -1,4 +1,4 @@
-# Mão na massa sem pantim com Python, visse?!
+# Mão na massa com Python sem pantim, visse?!
 
 ## O que faremos: 
 
