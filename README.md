@@ -6,7 +6,7 @@
 
 ### Passo a passo do joguinho:
 
-**1** - Primeiro, importaremos a biblioteca randint e em seguida pediremos que o jogadora escolher entre tijolo, papel de embrulhar prego e facão, digitando alguma das iniciais em minúsculo:
+**1** - Primeiro, importaremos a biblioteca randint e em seguida pediremos que a jogadora escolha entre tijolo, papel de embrulhar prego e facão, digitando alguma das iniciais em minúsculo:
 ``` python
   from random import randint
 
